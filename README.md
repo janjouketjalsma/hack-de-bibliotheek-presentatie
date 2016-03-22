@@ -1,5 +1,5 @@
 # Hack de Bibliotheek Presentatie
-Presentatie te gebruiken voor "Hack de Bibliotheek". Gemaakt met Meteor en RevealJS.
+Presentaties te gebruiken voor "Hack de Bibliotheek". Gemaakt met Meteor en RevealJS.
 ##Gebruik
 * Installeer Meteor (https://www.meteor.com/install)
 * Clone dit repository
