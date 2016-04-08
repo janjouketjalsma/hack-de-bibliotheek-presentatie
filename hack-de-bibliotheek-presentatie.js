@@ -1,3 +1,4 @@
+import Reveal from 'reveal.js'
 if (Meteor.isClient) {
   Meteor.startup( function() {
     Reveal.initialize({
