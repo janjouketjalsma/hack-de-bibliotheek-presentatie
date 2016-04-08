@@ -7,7 +7,8 @@ if (Meteor.isClient) {
       progress: true,
       transition: "linear",
       "background-transition": "slide",
-      theme: "moon"
+      theme: "moon",
+      showNotes: true
     });
   });
 }
